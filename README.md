@@ -3,6 +3,7 @@
 ## COURSES COMPLETED
 \
 ======================== **PYTHON** =======================================
->COURSERA
+\
+***PYTHON***
 
 [X] PYTHON FOR EVERYBODY (Getting Started With Python)
