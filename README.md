@@ -1,5 +1,8 @@
-# hello-world
-new repo\
-just adding few lines here\
-this is a new line\
-appended to the original text
+# MY GOAL TOWARDS MACHINE LEARNING
+\
+## COURSES COMPLETED
+\
+======================== **PYTHON** =======================================
+>COURSERA
+
+[X] PYTHON FOR EVERYBODY (Getting Started With Python)
