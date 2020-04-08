@@ -5,10 +5,13 @@
 ======================== **PYTHON** =======================================
 \
 \
-***PYTHON***
+***COURSERA***\
 \
 \
+(X) PYTHON FOR EVERYBODY (Getting Started With Python)\
+(X) PYTHON DATA STRUCTURES\
+
 \
 \
-\
-[X] PYTHON FOR EVERYBODY (Getting Started With Python)
+***SOLOLEARN***
+(X) PYTHON3 TUTORIAL
