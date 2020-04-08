@@ -4,7 +4,11 @@
 \
 ======================== **PYTHON** =======================================
 \
+\
 ***PYTHON***
+\
+\
+\
 \
 \
 [X] PYTHON FOR EVERYBODY (Getting Started With Python)
