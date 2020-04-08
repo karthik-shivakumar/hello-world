@@ -1,5 +1,5 @@
 # MY GOAL TOWARDS MACHINE LEARNING
-\
+
 ## COURSES COMPLETED
 \
 ======================== **PYTHON** =======================================
