@@ -1,6 +1,6 @@
 # MY GOAL TOWARDS MACHINE LEARNING
 
-## **COURSES COMPLETED**
+## ***COURSES COMPLETED***
 \
 ======================== **PYTHON** =======================================
 \
@@ -23,7 +23,7 @@
 - [x] PYTHON PROGRAMMING, CS, ALGORITHMS AND DATA STRUCTURES
 
 \
-\
+
 
 ## ***COURSES TO BE COMPLETED***
  
