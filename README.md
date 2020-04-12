@@ -36,6 +36,10 @@
 - [ ] MANUPULATING DATA FRAMES WITH PANDAS
 
 \
+***FREE CODECAMP***
+- [ ] Data Visualization with D3.js - Full Tutorial Course
+
+\
 ***COURSERA***
 - [ ] MACHINE LEARNING
 - [ ] PYTHON DATA VISUALIZATION
